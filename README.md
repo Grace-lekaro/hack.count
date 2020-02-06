@@ -1,0 +1,2 @@
+# hack.count
+hack
